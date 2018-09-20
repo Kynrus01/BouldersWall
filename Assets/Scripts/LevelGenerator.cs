@@ -21,7 +21,7 @@ public class LevelGenerator : MonoBehaviour
     {
         SetTileDifficulty();
         CheckDistance();
-        MoveLava();
+        //MoveLava();
     }
 
     float spawnTileDistance = 12;
